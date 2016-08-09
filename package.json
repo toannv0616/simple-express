@@ -1,0 +1,26 @@
+{
+  "name": "simple-express",
+  "version": "0.0.1",
+  "description": "Simple express web app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toannv0616/simple-express.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Toan Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toannv0616/simple-express/issues"
+  },
+  "homepage": "https://github.com/toannv0616/simple-express#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
